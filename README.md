@@ -1,2 +1,2 @@
 # config-repo
-Stores conﬁguration data for PolarBook application
+Stores conﬁguration data for PolarBook Shop application
